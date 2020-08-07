@@ -1,0 +1,5 @@
+{
+  "name": "@weavedev/style-provider/default",
+  "main": "../dist/defaultStyles.js",
+  "types": "../dist/defaultStyles.d.ts"
+}
