@@ -1,0 +1,5 @@
+{
+  "name": "@weavedev/style-provider/create",
+  "main": "../dist/WeaveStyleProvider.js",
+  "types": "../dist/WeaveStyleProvider.d.ts"
+}
